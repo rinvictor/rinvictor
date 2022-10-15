@@ -17,6 +17,6 @@ You can have a look to my personal webpage to contact me or to know a bit more a
 
 You can also contact me via:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Víctor_Rincón_Yepes-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rinc%C3%B3n-yepes-969242206/)
+[![Linkedin Badge](https://img.shields.io/badge/-Víctor_Rincón_Yepes-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rincon-yepes/)
 [![Mail Badge](https://img.shields.io/badge/-Víctor_Rincón_Yepes-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rinvictor@gmail.com)
 
